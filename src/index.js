@@ -13,7 +13,7 @@ let reachedEnd = false;
 
 const lightbox = new SimpleLightbox('.lightbox', {
   captionsData: 'alt',
-  captionDelay: 250,
+  captionDelay: 300,
   enableKeyboard: true,
   showCounter: false,
   scrollZoom: false,
